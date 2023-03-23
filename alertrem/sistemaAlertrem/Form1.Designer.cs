@@ -37,9 +37,9 @@ namespace sistemaAlertrem
             this.lblNome.AutoSize = true;
             this.lblNome.Location = new System.Drawing.Point(263, 158);
             this.lblNome.Name = "lblNome";
-            this.lblNome.Size = new System.Drawing.Size(154, 13);
+            this.lblNome.Size = new System.Drawing.Size(157, 13);
             this.lblNome.TabIndex = 0;
-            this.lblNome.Text = "NATHAN PASSOU POR AQUI";
+            this.lblNome.Text = "NATHAN PASSOU POR AQUI!";
             // 
             // Form1
             // 
