@@ -1,68 +1,47 @@
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe.config
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.pdb
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\MySql.Data.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Buffers.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Memory.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\BouncyCastle.Crypto.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.pdb
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\MySql.Data.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Buffers.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Memory.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.AssemblyReference.cache
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Form1.resources
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmEstacao1.resources
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmEstacao2.resources
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Properties.Resources.resources
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.GenerateResource.cache
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CoreCompileInputs.cache
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CopyComplete
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.exe
-C:\Users\gabriel.fsilva128\Downloads\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.pdb
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe.config
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.pdb
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\MySql.Data.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Buffers.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Memory.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\BouncyCastle.Crypto.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.pdb
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\MySql.Data.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Buffers.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Memory.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.AssemblyReference.cache
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Form1.resources
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmEstacao1.resources
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmEstacao2.resources
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Properties.Resources.resources
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.GenerateResource.cache
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CoreCompileInputs.cache
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CopyComplete
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.exe
-C:\Users\gabriel.fsilva128\Documents\Visual Studio 2019\clone\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.pdb
+<<<<<<< HEAD
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe.config
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.pdb
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.AssemblyReference.cache
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Form1.resources
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Frmcomentario.resources
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Properties.Resources.resources
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.GenerateResource.cache
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CoreCompileInputs.cache
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.exe
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.pdb
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\MySql.Data.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Buffers.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Memory.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\MySql.Data.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Buffers.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Memory.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\sistemaAlertrem\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CopyComplete
+=======
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe.config
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.pdb
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.AssemblyReference.cache
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Form1.resources
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmMenu.resources
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Properties.Resources.resources
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.GenerateResource.cache
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CoreCompileInputs.cache
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.exe
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.pdb
+>>>>>>> 217ccab15d7710171c8e6bd44cbe41d132d6cba5
