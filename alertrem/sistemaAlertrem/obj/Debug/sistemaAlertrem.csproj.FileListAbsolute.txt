@@ -1,0 +1,11 @@
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe.config
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.exe
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\bin\Debug\sistemaAlertrem.pdb
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.AssemblyReference.cache
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Form1.resources
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmMenu.resources
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.Properties.Resources.resources
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.GenerateResource.cache
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CoreCompileInputs.cache
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.exe
+C:\Users\bruno.jogomes\Documents\Visual Studio 2019\AlerTrem - sistema\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.pdb
