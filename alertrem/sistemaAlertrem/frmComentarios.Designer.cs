@@ -32,7 +32,9 @@ namespace sistemaAlertrem
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dgvComentarios = new System.Windows.Forms.DataGridView();
+            this.gpbComentarios = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvComentarios)).BeginInit();
+            this.gpbComentarios.SuspendLayout();
             this.SuspendLayout();
             // 
             // dgvComentarios
@@ -47,7 +49,7 @@ namespace sistemaAlertrem
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvComentarios.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvComentarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvComentarios.Location = new System.Drawing.Point(12, 12);
+            this.dgvComentarios.Location = new System.Drawing.Point(65, 31);
             this.dgvComentarios.Name = "dgvComentarios";
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
@@ -58,18 +60,33 @@ namespace sistemaAlertrem
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvComentarios.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
-            this.dgvComentarios.Size = new System.Drawing.Size(776, 426);
+            this.dgvComentarios.Size = new System.Drawing.Size(776, 330);
             this.dgvComentarios.TabIndex = 0;
+            this.dgvComentarios.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvComentarios_CellContentClick);
+            // 
+            // gpbComentarios
+            // 
+            this.gpbComentarios.Controls.Add(this.dgvComentarios);
+            this.gpbComentarios.Location = new System.Drawing.Point(12, 12);
+            this.gpbComentarios.Name = "gpbComentarios";
+            this.gpbComentarios.Size = new System.Drawing.Size(960, 387);
+            this.gpbComentarios.TabIndex = 1;
+            this.gpbComentarios.TabStop = false;
+            this.gpbComentarios.Text = "Comentarios";
             // 
             // frmComentarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dgvComentarios);
+            this.ClientSize = new System.Drawing.Size(984, 491);
+            this.Controls.Add(this.gpbComentarios);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.MinimizeBox = false;
             this.Name = "frmComentarios";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Comentarios";
             ((System.ComponentModel.ISupportInitialize)(this.dgvComentarios)).EndInit();
+            this.gpbComentarios.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -77,5 +94,6 @@ namespace sistemaAlertrem
         #endregion
 
         private System.Windows.Forms.DataGridView dgvComentarios;
+        private System.Windows.Forms.GroupBox gpbComentarios;
     }
 }
