@@ -133,3 +133,5 @@ C:\Users\natan\OneDrive\Área de Trabalho\Alertrem-sistema\alertrem\sistemaAlert
 C:\Users\natan\OneDrive\Área de Trabalho\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.csproj.CopyComplete
 C:\Users\natan\OneDrive\Área de Trabalho\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.exe
 C:\Users\natan\OneDrive\Área de Trabalho\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.pdb
+C:\Users\natan\OneDrive\Área de Trabalho\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmEstacao1.resources
+C:\Users\natan\OneDrive\Área de Trabalho\Alertrem-sistema\alertrem\sistemaAlertrem\obj\Debug\sistemaAlertrem.frmEstacao2.resources

@@ -67,6 +67,18 @@
     <Compile Include="frmComentarios.Designer.cs">
       <DependentUpon>frmComentarios.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmEstacao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstacao1.Designer.cs">
+      <DependentUpon>frmEstacao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstacao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstacao2.Designer.cs">
+      <DependentUpon>frmEstacao2.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +87,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="teste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teste.Designer.cs">
+      <DependentUpon>teste.cs</DependentUpon>
+    </Compile>
     <Compile Include="usuarios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +104,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmComentarios.resx">
       <DependentUpon>frmComentarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstacao1.resx">
+      <DependentUpon>frmEstacao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstacao2.resx">
+      <DependentUpon>frmEstacao2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
